@@ -1,0 +1,7 @@
+.horizontal {
+    background-color:  var(--main-color);
+    height:5px;
+    margin: 0;
+    border: none;
+    width: 100%;
+}

@@ -1,0 +1,97 @@
+:root{
+    --main-color:rgb(122, 48, 160, 1);
+}
+.parent div{
+    margin-left: 49px;
+    position: relative;
+    width: 45vw;
+    /* background-color: rgb(218, 216, 216);  */
+}
+.parent div .onesthalf h1{
+    margin:0px;
+
+}
+
+.hireAcamp{
+    color:var(--main-color);
+}
+.duration{
+    margin-left: 20px;
+    color:var(--main-color);
+}
+.duration2{
+    margin-left: 60px;
+    color:var(--main-color);
+}
+h4{
+    margin-top: 10px;
+}
+.project .p-format{
+    margin-left: 50px;
+}
+.intern-details .p-format{
+    margin-left: 50px;
+}
+
+/* NOW FOR THE 2nd half */
+.main{
+    display: flex;
+}
+.parent-div2{
+    width:35vw;
+    /* background-color:rgb(218, 216, 216); */
+    margin-left: 20px;
+}
+.other-half .p-format2{
+    margin-left: 70px;
+    font-size: large;
+    font-weight: 600;
+}
+.record-icon1{
+    margin-left: 100px;
+}
+.record-icon2{
+    margin-left: 123px;
+}
+.record-icon3{
+    margin-left: 71px;
+}
+.other-half .btn-inside{
+    background-color: transparent;
+    height: 50px;
+    width: 100px;
+    margin: 10px;
+    flex-wrap: wrap;
+    color: var(--main-color);
+    border: 2px solid var(--main-color);
+    border-radius: 12px;
+}
+.other-half .btn{
+    display: flex;
+    flex-wrap: wrap;
+}
+.btn-inside:focus{
+    outline:none;
+}
+.btn-inside2:focus{
+    outline:none;
+}
+.other-half .btn-inside2{
+    background-color: transparent;
+    height: 50px;
+    width: 150px;
+    margin: 10px;
+    flex-wrap: wrap;
+    color: var(--main-color);
+    border: 2px solid var(--main-color);
+    border-radius: 12px;
+}
+.btn-inside:hover, .btn-inside2:hover{
+    transform: scale(1.1);
+}
+ .a-links a{
+    color:var(--main-color);
+}
+
+
+ 

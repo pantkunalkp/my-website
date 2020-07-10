@@ -1,0 +1,34 @@
+.intro-part{
+    margin:50px;
+    margin-bottom: 20px;
+}
+.intro-part p{
+    font-size: 25px;
+    font-weight: 500;
+    color:rgb(122, 48, 160, 1);
+}
+.intro-part .my-name{
+    color:black;
+    font-size: 42px;
+}
+.internal-details1, .internal-details2{
+    margin-left: 20px;
+    font-size: large;
+}
+.location{
+    margin-left: 10%;
+}
+.linkedIn{
+    margin-left: 19%;
+}
+.github{
+    margin-left: 8%;
+}
+.intro-part a{
+    color:black;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(122, 48, 160, 1);
+}
+
